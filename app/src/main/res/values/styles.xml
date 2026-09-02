@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.PocketCanvas" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#7657FF</item>
+        <item name="android:navigationBarColor">#111018</item>
+        <item name="android:statusBarColor">#111018</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
